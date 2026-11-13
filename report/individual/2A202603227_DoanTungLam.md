@@ -14,7 +14,7 @@ Dữ liệu: 12 ảnh người COCO val2017 (Lin et al., 2014) và 8 ảnh chân
 - Máy: hệ điều hành Windows · RAM 16 GB · chạy CVAT chế độ đầy đủ
 - Bộ ảnh (`src/exports/assignment.json` do `lab.py setup` tạo): có
 - Giờ bắt đầu: 16h30
-- Giờ kết thúc:
+- Giờ kết thúc: 20h00
 
 ## 1. Kiểm tra label (CP0)
 
