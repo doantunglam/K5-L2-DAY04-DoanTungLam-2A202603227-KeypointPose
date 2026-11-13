@@ -42,7 +42,7 @@ Cách đổi cờ `occluded` / `outside` cho **một điểm** trên phiên bả
 | `faces`    |      8 |                  8 |                               — |                                   0 |               20 |
 
 - Số ảnh người đã xong ở mốc phút 105: 10 / 10
-- Thời gian thực tế (phút): CP1 50 · CP2 30 · CP3 20
+- Thời gian thực tế (phút): CP1 50m · CP2 30m · CP3 20m
 - Ảnh tốn thời gian nhất là ảnh nào, vì sao?
 
 Ảnh tốn thời gian nhất là ảnh `000000269462.jpg`. Vì có tới 3 đối tượng cần dựng skeleton đồng thời ba đối tượng đều có kích thước nhỏ và quay lưng về phía camera nên sẽ có những phần bị che khuất cần căn chỉnh cho đúng
