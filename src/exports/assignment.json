@@ -1,0 +1,43 @@
+{
+ "mssv": "2A03227",
+ "ten": "DoanTungLam",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "doantunglam",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000019754.jpg",
+  "000000072098.jpg",
+  "000000184224.jpg",
+  "000000294329.jpg",
+  "000000308257.jpg",
+  "000000157271.jpg",
+  "000000183176.jpg",
+  "000000571665.jpg",
+  "000000163118.jpg",
+  "000000461002.jpg",
+  "000000269462.jpg",
+  "000000272026.jpg"
+ ],
+ "faces": [
+  "face_300399.jpg",
+  "face_359139.jpg",
+  "face_425647.jpg",
+  "face_145621.jpg",
+  "face_476363.jpg",
+  "face_178208.jpg",
+  "face_146049.jpg",
+  "face_41666.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 11,
+   "job_id": 17,
+   "task_name": "persons-DoanTungLam"
+  },
+  "faces": {
+   "task_id": 12,
+   "job_id": 18,
+   "task_name": "faces-DoanTungLam"
+  }
+ }
+}
