@@ -9,7 +9,7 @@ Dữ liệu: 12 ảnh người COCO val2017 (Lin et al., 2014) và 8 ảnh chân
 - Họ tên: Doãn Tùng Lâm
 - MSSV: 2A202603227
 - Email: 26ai.lamdt2@vinuni.edu.vn
-- Link repository:
+- Link repository: https://github.com/doantunglam/K5-L2-DAY04-DoanTungLam-2A202603227-KeypointPose
 - Phiên bản CVAT (Help → About): 2.74.1
 - Máy: hệ điều hành Windows · RAM 16 GB · chạy CVAT chế độ đầy đủ
 - Bộ ảnh (`src/exports/assignment.json` do `lab.py setup` tạo): có
