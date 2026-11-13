@@ -117,9 +117,11 @@ Kết quả: ĐẠT (đọc lại từng cảnh báo ở trên)
 
 Các `[CẢNH BÁO]` còn giữ nguyên và lý do:
 
-[CẢNH BÁO] `000000019754.jpg` #1: cặp wrist, ankle nằm ngược phía so với các cặp còn lại. Có thể đổi trái/phải một cặp (`lr_swap`), hoặc tay / chân bắt chéo thật: kiểm lại. --> Tư thế tự nhiên của khi lướt ván
-[CẢNH BÁO] `000000308257.jpg` #1: cặp ankle nằm ngược phía so với các cặp còn lại. Có thể đổi trái/phải một cặp (`lr_swap`), hoặc tay / chân bắt chéo thật: kiểm lại. --> Tư thế ngồi khoanh chân
-[CẢNH BÁO] `000000461002.jpg` #1: cặp hip, knee, ankle nằm ngược phía so với các cặp còn lại. Có thể đổi trái/phải một cặp (`lr_swap`), hoặc tay / chân bắt chéo thật: kiểm lại. --> Tư thế xoay nửa người
+  - [CẢNH BÁO] `000000019754.jpg` #1: cặp wrist, ankle nằm ngược phía so với các cặp còn lại. Có thể đổi trái/phải một cặp (`lr_swap`), hoặc tay / chân bắt chéo thật: kiểm lại. --> Tư thế tự nhiên của khi lướt ván
+
+  - [CẢNH BÁO] `000000308257.jpg` #1: cặp ankle nằm ngược phía so với các cặp còn lại. Có thể đổi trái/phải một cặp (`lr_swap`), hoặc tay / chân bắt chéo thật: kiểm lại. --> Tư thế ngồi khoanh chân
+  
+  - [CẢNH BÁO] `000000461002.jpg` #1: cặp hip, knee, ankle nằm ngược phía so với các cặp còn lại. Có thể đổi trái/phải một cặp (`lr_swap`), hoặc tay / chân bắt chéo thật: kiểm lại. --> Tư thế xoay nửa người
 
 ## 6. Ảnh chụp màn hình
 
