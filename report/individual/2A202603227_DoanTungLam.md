@@ -82,7 +82,7 @@ Tổng hợp số lỗi theo mã:
 
 Điểm còn phân vân giữa `v = 1` và `v = 0` (ghi cả hai lựa chọn và lý do chọn):
 
-Điểm `LEFT_KNEE` của người đàn ông lái xe ở `000000183176.jpg`. Phân vân giữa v = 1 (đầu gối bị đèn xe che một phần, đùi vẫn lộ ra) và v = 0 (tâm khớp nằm ngoài mép dưới ảnh). Chọn v = 0 vì tâm khớp không nằm trong khung ảnh, nên không có manh mối để định vị chắc chắn.
+  - Điểm `LEFT_KNEE` của người đàn ông lái xe ở `000000183176.jpg`. Phân vân giữa v = 1 (đầu gối bị đèn xe che một phần, đùi vẫn lộ ra) và v = 0 (tâm khớp nằm ngoài mép dưới ảnh). Chọn v = 0 vì tâm khớp không nằm trong khung ảnh, nên không có manh mối để định vị chắc chắn.
 
 ## 5. Kiểm file xuất và kết quả tự kiểm (CP4)
 
