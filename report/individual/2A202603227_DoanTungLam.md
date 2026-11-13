@@ -23,11 +23,12 @@ Dữ liệu: 12 ảnh người COCO val2017 (Lin et al., 2014) và 8 ảnh chân
 | `person` | Skeleton |      17 | Có                          | Có           |      19 |
 | `face`   | Skeleton |      13 | Có                          | Có           |      13 |
 
-Mẫu `person` dựng theo người quay mặt về camera (các điểm `left_*` nằm bên phải khung mẫu)? Có. Trong constructor, left_shoulder nằm bên phải khung mẫu và right_shoulder nằm bên trái.
+Mẫu `person` dựng theo người quay mặt về camera (các điểm `left_*` nằm bên phải khung mẫu)?
+  - Có. Trong constructor, left_shoulder nằm bên phải khung mẫu và right_shoulder nằm bên trái.
 
 Cách đổi cờ `occluded` / `outside` cho **một điểm** trên phiên bản CVAT này (một câu):
 
-Chọn điểm cần đổi, rồi bật Occluded bằng phím Q (hoặc /) hoặc Outside bằng phím O (hoặc bấm biểu tượng tương ứng trong panel đối tượng bên phải)
+- Chọn điểm cần đổi, rồi bật Occluded bằng phím Q (hoặc /) hoặc Outside bằng phím O (hoặc bấm biểu tượng tương ứng trong panel đối tượng bên phải)
 
 ## 2. Số lượng đã gán và thời gian (CP1, CP2)
 
